@@ -68,6 +68,14 @@ pip install -r requirements.txt
 
 ## 📑 Citation
 
+Our research paper, *"Comparative Analysis of Textual and High-Dimensional Numerical Features for Email Phishing,"* is currently **under review for publication**. 
+
+The official BibTeX citation and DOI link will be updated here once the paper is published. If you find this repository or methodology useful for your own work in the meantime, please consider starring this repository and linking back to this GitHub page!
+
+
+<!--
+## 📑 Citation
+
 If you find this repository useful, please cite our paper:
 
 ```bibtex
@@ -77,3 +85,5 @@ If you find this repository useful, please cite our paper:
   year={2026}
 }
 ```
+-->
+
